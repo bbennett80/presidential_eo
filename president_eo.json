@@ -1,8 +1,26 @@
 {
-  "count": 21,
+  "count": 22,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 7483",
+      "document_number": "2021-02070",
+      "end_page": 7484,
+      "html_url": "https://www.federalregister.gov/documents/2021/01/29/2021-02070/reforming-our-incarceration-system-to-eliminate-the-use-of-privately-operated-criminal-detention",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-29/pdf/2021-02070.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-01-29",
+      "signing_date": "2021-01-26",
+      "start_page": 7483,
+      "title": "Reforming Our Incarceration System To Eliminate the Use of Privately Operated Criminal Detention Facilities",
+      "disposition_notes": null,
+      "executive_order_number": "14006",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/29/2021-02070.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/29/2021-02070.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-02070?publication_date=2021-01-29"
+    },
     {
       "citation": "86 FR 7471",
       "document_number": "2021-02034",
