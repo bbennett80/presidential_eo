@@ -1,8 +1,26 @@
 {
-  "count": 28,
+  "count": 29,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 8839",
+      "document_number": "2021-02804",
+      "end_page": 8844,
+      "html_url": "https://www.federalregister.gov/documents/2021/02/09/2021-02804/rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-02-09/pdf/2021-02804.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-02-09",
+      "signing_date": "2021-02-04",
+      "start_page": 8839,
+      "title": "Rebuilding and Enhancing Programs To Resettle Refugees and Planning for the Impact of Climate Change on Migration",
+      "disposition_notes": null,
+      "executive_order_number": "14013",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/02/09/2021-02804.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/02/09/2021-02804.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-02804?publication_date=2021-02-09"
+    },
     {
       "citation": "86 FR 8267",
       "document_number": "2021-02561",
