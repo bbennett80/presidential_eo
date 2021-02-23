@@ -1,8 +1,26 @@
 {
-  "count": 31,
+  "count": 32,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 11089",
+      "document_number": "2021-03874",
+      "end_page": 11090,
+      "html_url": "https://www.federalregister.gov/documents/2021/02/23/2021-03874/revocation-of-executive-order-13801",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-02-23/pdf/2021-03874.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-02-23",
+      "signing_date": "2021-02-17",
+      "start_page": 11089,
+      "title": "Revocation of Executive Order 13801",
+      "disposition_notes": null,
+      "executive_order_number": "14016",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/02/23/2021-03874.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/02/23/2021-03874.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-03874?publication_date=2021-02-23"
+    },
     {
       "citation": "86 FR 10007",
       "document_number": "2021-03424",
