@@ -1,8 +1,26 @@
 {
-  "count": 34,
+  "count": 35,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 13623",
+      "document_number": "2021-05087",
+      "end_page": 13627,
+      "html_url": "https://www.federalregister.gov/documents/2021/03/10/2021-05087/promoting-access-to-voting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-03-10/pdf/2021-05087.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-03-10",
+      "signing_date": "2021-03-07",
+      "start_page": 13623,
+      "title": "Promoting Access to Voting",
+      "disposition_notes": null,
+      "executive_order_number": "14019",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/10/2021-05087.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/10/2021-05087.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-05087?publication_date=2021-03-10"
+    },
     {
       "citation": "86 FR 11849",
       "document_number": "2021-04280",
