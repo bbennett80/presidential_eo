@@ -1,8 +1,26 @@
 {
-  "count": 44,
+  "count": 45,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 27025",
+      "document_number": "2021-10691",
+      "end_page": 27026,
+      "html_url": "https://www.federalregister.gov/documents/2021/05/19/2021-10691/revocation-of-certain-presidential-actions-and-technical-amendment",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-05-19/pdf/2021-10691.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-05-19",
+      "signing_date": "2021-05-14",
+      "start_page": 27025,
+      "title": "Revocation of Certain Presidential Actions and Technical Amendment",
+      "disposition_notes": null,
+      "executive_order_number": "14029",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/05/19/2021-10691.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/05/19/2021-10691.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-10691?publication_date=2021-05-19"
+    },
     {
       "citation": "86 FR 26633",
       "document_number": "2021-10460",
