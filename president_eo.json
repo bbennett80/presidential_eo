@@ -1,8 +1,26 @@
 {
-  "count": 48,
+  "count": 49,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 31079",
+      "document_number": "2021-12382",
+      "end_page": 31082,
+      "html_url": "https://www.federalregister.gov/documents/2021/06/10/2021-12382/blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-06-10/pdf/2021-12382.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-06-10",
+      "signing_date": "2021-06-08",
+      "start_page": 31079,
+      "title": "Blocking Property and Suspending Entry Into the United States of Certain Persons Contributing to the Destabilizing Situation in the Western Balkans",
+      "disposition_notes": null,
+      "executive_order_number": "14033",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/06/10/2021-12382.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/06/10/2021-12382.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-12382?publication_date=2021-06-10"
+    },
     {
       "citation": "86 FR 30145",
       "document_number": "2021-12019",
