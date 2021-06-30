@@ -1,8 +1,26 @@
 {
-  "count": 50,
+  "count": 51,
   "description": "Documents signed by Joe Biden, of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 34593",
+      "document_number": "2021-14127",
+      "end_page": 34603,
+      "html_url": "https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-06-30/pdf/2021-14127.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-06-30",
+      "signing_date": "2021-06-25",
+      "start_page": 34593,
+      "title": "Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce",
+      "disposition_notes": null,
+      "executive_order_number": "14035",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/06/30/2021-14127.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/06/30/2021-14127.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-14127?publication_date=2021-06-30"
+    },
     {
       "citation": "86 FR 31423",
       "document_number": "2021-12506",
