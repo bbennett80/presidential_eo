@@ -1,8 +1,26 @@
 {
-  "count": 53,
+  "count": 54,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 43905",
+      "document_number": "2021-17253",
+      "end_page": 43908,
+      "html_url": "https://www.federalregister.gov/documents/2021/08/11/2021-17253/blocking-property-of-additional-persons-contributing-to-the-situation-in-belarus",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-08-11/pdf/2021-17253.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-08-11",
+      "signing_date": "2021-08-09",
+      "start_page": 43905,
+      "title": "Blocking Property of Additional Persons Contributing to the Situation in Belarus",
+      "disposition_notes": null,
+      "executive_order_number": "14038",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/08/11/2021-17253.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/08/11/2021-17253.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-17253?publication_date=2021-08-11"
+    },
     {
       "citation": "86 FR 43583",
       "document_number": "2021-17121",
