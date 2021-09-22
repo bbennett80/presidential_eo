@@ -1,8 +1,26 @@
 {
-  "count": 62,
+  "count": 63,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 52591",
+      "document_number": "2021-20629",
+      "end_page": 52592,
+      "html_url": "https://www.federalregister.gov/documents/2021/09/22/2021-20629/adding-measles-to-the-list-of-quarantinable-communicable-diseases",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-09-22/pdf/2021-20629.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-09-22",
+      "signing_date": "2021-09-17",
+      "start_page": 52591,
+      "title": "Adding Measles to the List of Quarantinable Communicable Diseases",
+      "disposition_notes": null,
+      "executive_order_number": "14047",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/09/22/2021-20629.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/09/22/2021-20629.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-20629?publication_date=2021-09-22"
+    },
     {
       "citation": "86 FR 52389",
       "document_number": "2021-20508",
