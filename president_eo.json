@@ -1,8 +1,26 @@
 {
-  "count": 65,
+  "count": 66,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 58551",
+      "document_number": "2021-23224",
+      "end_page": 58557,
+      "html_url": "https://www.federalregister.gov/documents/2021/10/22/2021-23224/white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-black",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-10-22/pdf/2021-23224.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-10-22",
+      "signing_date": "2021-10-19",
+      "start_page": 58551,
+      "title": "White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans",
+      "disposition_notes": null,
+      "executive_order_number": "14050",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/10/22/2021-23224.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/10/22/2021-23224.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-23224?publication_date=2021-10-22"
+    },
     {
       "citation": "86 FR 57313",
       "document_number": "2021-22588",
