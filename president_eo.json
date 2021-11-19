@@ -1,8 +1,26 @@
 {
-  "count": 69,
+  "count": 70,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "86 FR 66149",
+      "document_number": "2021-25548",
+      "end_page": 66150,
+      "html_url": "https://www.federalregister.gov/documents/2021/11/19/2021-25548/termination-of-emergency-with-respect-to-the-situation-in-burundi",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-11-19/pdf/2021-25548.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-11-19",
+      "signing_date": "2021-11-18",
+      "start_page": 66149,
+      "title": "Termination of Emergency With Respect to the Situation in Burundi",
+      "disposition_notes": null,
+      "executive_order_number": "14054",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/11/19/2021-25548.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/11/19/2021-25548.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-25548?publication_date=2021-11-19"
+    },
     {
       "citation": "86 FR 64335",
       "document_number": "2021-25286",
