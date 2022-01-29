@@ -1,8 +1,26 @@
 {
-  "count": 77,
+  "count": 78,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "87 FR 4763",
+      "document_number": "2022-02027",
+      "end_page": 4786,
+      "html_url": "https://www.federalregister.gov/documents/2022/01/31/2022-02027/2022-amendments-to-the-manual-for-courts-martial-united-states",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-01-31/pdf/2022-02027.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2022-01-31",
+      "signing_date": "2022-01-26",
+      "start_page": 4763,
+      "title": "2022 Amendments to the Manual for Courts-Martial, United States",
+      "disposition_notes": null,
+      "executive_order_number": "14062",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/01/31/2022-02027.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/01/31/2022-02027.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2022-02027?publication_date=2022-01-31"
+    },
     {
       "citation": "86 FR 73601",
       "document_number": "2021-28313",
