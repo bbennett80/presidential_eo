@@ -1,8 +1,26 @@
 {
-  "count": 92,
+  "count": 93,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "87 FR 43203",
+      "document_number": "2022-15628",
+      "end_page": 43207,
+      "html_url": "https://www.federalregister.gov/documents/2022/07/20/2022-15628/establishing-an-emergency-board-to-investigate-disputes-between-certain-railroads-represented-by-the",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-07-20/pdf/2022-15628.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2022-07-20",
+      "signing_date": "2022-07-15",
+      "start_page": 43203,
+      "title": "Establishing an Emergency Board To Investigate Disputes Between Certain Railroads Represented by the National Carriers' Conference Committee of the National Railway Labor Conference and Their Employees Represented by Certain Labor Organizations",
+      "disposition_notes": null,
+      "executive_order_number": "14077",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/07/20/2022-15628.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/07/20/2022-15628.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2022-15628?publication_date=2022-07-20"
+    },
     {
       "citation": "87 FR 42053",
       "document_number": "2022-15138",
@@ -1318,24 +1336,6 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-02038?publication_date=2021-01-28"
     },
     {
-      "citation": "86 FR 7231",
-      "document_number": "2021-01924",
-      "end_page": 7233,
-      "html_url": "https://www.federalregister.gov/documents/2021/01/27/2021-01924/protecting-the-federal-workforce",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-27/pdf/2021-01924.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-01-27",
-      "signing_date": "2021-01-22",
-      "start_page": 7231,
-      "title": "Protecting the Federal Workforce",
-      "disposition_notes": "Revokes: EO 13957 of October 21, 2020; EO EO 13836, May 25, 2018; EO 13837, May 25, 2018; EO 13839, May 25, 2018",
-      "executive_order_number": "14003",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/27/2021-01924.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/27/2021-01924.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01924?publication_date=2021-01-27"
-    },
-    {
       "citation": "86 FR 7229",
       "document_number": "2021-01923",
       "end_page": 7230,
@@ -1352,6 +1352,24 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/27/2021-01923.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/27/2021-01923.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01923?publication_date=2021-01-27"
+    },
+    {
+      "citation": "86 FR 7231",
+      "document_number": "2021-01924",
+      "end_page": 7233,
+      "html_url": "https://www.federalregister.gov/documents/2021/01/27/2021-01924/protecting-the-federal-workforce",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-27/pdf/2021-01924.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-01-27",
+      "signing_date": "2021-01-22",
+      "start_page": 7231,
+      "title": "Protecting the Federal Workforce",
+      "disposition_notes": "Revokes: EO 13957 of October 21, 2020; EO EO 13836, May 25, 2018; EO 13837, May 25, 2018; EO 13839, May 25, 2018",
+      "executive_order_number": "14003",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/27/2021-01924.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/27/2021-01924.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01924?publication_date=2021-01-27"
     },
     {
       "citation": "86 FR 7189",
