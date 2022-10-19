@@ -1,8 +1,26 @@
 {
-  "count": 102,
+  "count": 103,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "87 FR 63399",
+      "document_number": "2022-22834",
+      "end_page": 63400,
+      "html_url": "https://www.federalregister.gov/documents/2022/10/19/2022-22834/lowering-prescription-drug-costs-for-americans",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-10-19/pdf/2022-22834.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2022-10-19",
+      "signing_date": "2022-10-14",
+      "start_page": 63399,
+      "title": "Lowering Prescription Drug Costs for Americans",
+      "disposition_notes": null,
+      "executive_order_number": "14087",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2022/10/19/2022-22834.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2022/10/19/2022-22834.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2022-22834?publication_date=2022-10-19"
+    },
     {
       "citation": "87 FR 62283",
       "document_number": "2022-22531",
