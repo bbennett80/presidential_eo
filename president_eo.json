@@ -1858,24 +1858,6 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01924?publication_date=2021-01-27"
     },
     {
-      "citation": "86 FR 7219",
-      "document_number": "2021-01865",
-      "end_page": 7222,
-      "html_url": "https://www.federalregister.gov/documents/2021/01/26/2021-01865/a-sustainable-public-health-supply-chain",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-26/pdf/2021-01865.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-01-26",
-      "signing_date": "2021-01-21",
-      "start_page": 7219,
-      "title": "A Sustainable Public Health Supply Chain",
-      "disposition_notes": "See: EO 13910, March 23, 2020",
-      "executive_order_number": "14001",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/26/2021-01865.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/26/2021-01865.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01865?publication_date=2021-01-26"
-    },
-    {
       "citation": "86 FR 7189",
       "document_number": "2021-01849",
       "end_page": 7191,
@@ -2000,6 +1982,24 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/26/2021-01864.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/26/2021-01864.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01864?publication_date=2021-01-26"
+    },
+    {
+      "citation": "86 FR 7219",
+      "document_number": "2021-01865",
+      "end_page": 7222,
+      "html_url": "https://www.federalregister.gov/documents/2021/01/26/2021-01865/a-sustainable-public-health-supply-chain",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-26/pdf/2021-01865.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-01-26",
+      "signing_date": "2021-01-21",
+      "start_page": 7219,
+      "title": "A Sustainable Public Health Supply Chain",
+      "disposition_notes": "See: EO 13910, March 23, 2020",
+      "executive_order_number": "14001",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/26/2021-01865.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/26/2021-01865.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01865?publication_date=2021-01-26"
     },
     {
       "citation": "86 FR 7009",
