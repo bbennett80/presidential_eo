@@ -1,8 +1,26 @@
 {
-  "count": 120,
+  "count": 121,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "88 FR 54867",
+      "document_number": "2023-17449",
+      "end_page": 54872,
+      "html_url": "https://www.federalregister.gov/documents/2023/08/11/2023-17449/addressing-united-states-investments-in-certain-national-security-technologies-and-products-in",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2023-08-11/pdf/2023-17449.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2023-08-11",
+      "signing_date": "2023-08-09",
+      "start_page": 54867,
+      "title": "Addressing United States Investments in Certain National Security Technologies and Products in Countries of Concern",
+      "disposition_notes": null,
+      "executive_order_number": "14105",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2023/08/11/2023-17449.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2023/08/11/2023-17449.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2023-17449?publication_date=2023-08-11"
+    },
     {
       "citation": "88 FR 50535",
       "document_number": "2023-16570",
