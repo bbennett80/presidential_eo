@@ -1,8 +1,26 @@
 {
-  "count": 138,
+  "count": 139,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "89 FR 51949",
+      "document_number": "2024-13810",
+      "end_page": 51953,
+      "html_url": "https://www.federalregister.gov/documents/2024/06/21/2024-13810/white-house-council-on-supply-chain-resilience",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2024-06-21/pdf/2024-13810.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2024-06-21",
+      "signing_date": "2024-06-14",
+      "start_page": 51949,
+      "title": "White House Council on Supply Chain Resilience",
+      "disposition_notes": null,
+      "executive_order_number": "14123",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2024/06/21/2024-13810.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2024/06/21/2024-13810.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2024-13810?publication_date=2024-06-21"
+    },
     {
       "citation": "89 FR 27355",
       "document_number": "2024-08332",
