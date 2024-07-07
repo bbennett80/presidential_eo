@@ -1894,24 +1894,6 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-05087?publication_date=2021-03-10"
     },
     {
-      "citation": "86 FR 11855",
-      "document_number": "2021-04281",
-      "end_page": 11856,
-      "html_url": "https://www.federalregister.gov/documents/2021/03/01/2021-04281/revocation-of-certain-presidential-actions",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-03-01/pdf/2021-04281.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-03-01",
-      "signing_date": "2021-02-24",
-      "start_page": 11855,
-      "title": "Revocation of Certain Presidential Actions",
-      "disposition_notes": "Revokes: EO 13772, February 3, 2017; EO 13828, April 10, 2018; Memorandum of January 29, 2020; EO 13924, May 19, 2020; Memorandum of September 2, 2020; EO 13967, December 18, 2020; EO 13979, January 18, 2021",
-      "executive_order_number": "14018",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/01/2021-04281.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/01/2021-04281.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-04281?publication_date=2021-03-01"
-    },
-    {
       "citation": "86 FR 11849",
       "document_number": "2021-04280",
       "end_page": 11854,
@@ -1928,6 +1910,24 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/01/2021-04280.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/01/2021-04280.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-04280?publication_date=2021-03-01"
+    },
+    {
+      "citation": "86 FR 11855",
+      "document_number": "2021-04281",
+      "end_page": 11856,
+      "html_url": "https://www.federalregister.gov/documents/2021/03/01/2021-04281/revocation-of-certain-presidential-actions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-03-01/pdf/2021-04281.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-03-01",
+      "signing_date": "2021-02-24",
+      "start_page": 11855,
+      "title": "Revocation of Certain Presidential Actions",
+      "disposition_notes": "Revokes: EO 13772, February 3, 2017; EO 13828, April 10, 2018; Memorandum of January 29, 2020; EO 13924, May 19, 2020; Memorandum of September 2, 2020; EO 13967, December 18, 2020; EO 13979, January 18, 2021",
+      "executive_order_number": "14018",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/01/2021-04281.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/01/2021-04281.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-04281?publication_date=2021-03-01"
     },
     {
       "citation": "86 FR 11089",
