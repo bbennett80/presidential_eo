@@ -1,8 +1,26 @@
 {
-  "count": 139,
+  "count": 140,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "89 FR 59585",
+      "document_number": "2024-16225",
+      "end_page": 59589,
+      "html_url": "https://www.federalregister.gov/documents/2024/07/22/2024-16225/white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2024-07-22/pdf/2024-16225.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2024-07-22",
+      "signing_date": "2024-07-17",
+      "start_page": 59585,
+      "title": "White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions",
+      "disposition_notes": null,
+      "executive_order_number": "14124",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2024/07/22/2024-16225.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2024/07/22/2024-16225.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2024-16225?publication_date=2024-07-22"
+    },
     {
       "citation": "89 FR 51949",
       "document_number": "2024-13810",
@@ -2344,42 +2362,6 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01865?publication_date=2021-01-26"
     },
     {
-      "citation": "86 FR 7049",
-      "document_number": "2021-01767",
-      "end_page": 7050,
-      "html_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01767/revocation-of-certain-executive-orders-concerning-federal-regulation",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01767.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-01-25",
-      "signing_date": "2021-01-20",
-      "start_page": 7049,
-      "title": "Revocation of Certain Executive Orders Concerning Federal Regulation",
-      "disposition_notes": "Revokes: EO 13771, January 30, 2017; EO 13777, February 24, 2017;  EO 13875, June 14, 2019; EO 13891, October 9, 2019; EO 13892, October 9, 2019; EO 13893, October 10, 2019",
-      "executive_order_number": "13992",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01767.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01767.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01767?publication_date=2021-01-25"
-    },
-    {
-      "citation": "86 FR 7051",
-      "document_number": "2021-01768",
-      "end_page": 7052,
-      "html_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01768/revision-of-civil-immigration-enforcement-policies-and-priorities",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01768.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-01-25",
-      "signing_date": "2021-01-20",
-      "start_page": 7051,
-      "title": "Revision of Civil Immigration Enforcement Policies and Priorities",
-      "disposition_notes": "Revokes: EO 13768, January 25, 2017",
-      "executive_order_number": "13993",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01768.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01768.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01768?publication_date=2021-01-25"
-    },
-    {
       "citation": "86 FR 7009",
       "document_number": "2021-01753",
       "end_page": 7013,
@@ -2504,6 +2486,42 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01766.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01766.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01766?publication_date=2021-01-25"
+    },
+    {
+      "citation": "86 FR 7049",
+      "document_number": "2021-01767",
+      "end_page": 7050,
+      "html_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01767/revocation-of-certain-executive-orders-concerning-federal-regulation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01767.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-01-25",
+      "signing_date": "2021-01-20",
+      "start_page": 7049,
+      "title": "Revocation of Certain Executive Orders Concerning Federal Regulation",
+      "disposition_notes": "Revokes: EO 13771, January 30, 2017; EO 13777, February 24, 2017;  EO 13875, June 14, 2019; EO 13891, October 9, 2019; EO 13892, October 9, 2019; EO 13893, October 10, 2019",
+      "executive_order_number": "13992",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01767.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01767.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01767?publication_date=2021-01-25"
+    },
+    {
+      "citation": "86 FR 7051",
+      "document_number": "2021-01768",
+      "end_page": 7052,
+      "html_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01768/revision-of-civil-immigration-enforcement-policies-and-priorities",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01768.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-01-25",
+      "signing_date": "2021-01-20",
+      "start_page": 7051,
+      "title": "Revision of Civil Immigration Enforcement Policies and Priorities",
+      "disposition_notes": "Revokes: EO 13768, January 25, 2017",
+      "executive_order_number": "13993",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01768.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01768.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01768?publication_date=2021-01-25"
     }
   ]
 }
