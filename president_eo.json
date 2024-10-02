@@ -1,8 +1,26 @@
 {
-  "count": 142,
+  "count": 143,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "89 FR 80345",
+      "document_number": "2024-22938",
+      "end_page": 80350,
+      "html_url": "https://www.federalregister.gov/documents/2024/10/02/2024-22938/combating-emerging-firearms-threats-and-improving-school-based-active-shooter-drills",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2024-10-02/pdf/2024-22938.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2024-10-02",
+      "signing_date": "2024-09-26",
+      "start_page": 80345,
+      "title": "Combating Emerging Firearms Threats and Improving School-Based Active-Shooter Drills",
+      "disposition_notes": null,
+      "executive_order_number": "14127",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2024/10/02/2024-22938.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2024/10/02/2024-22938.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2024-22938?publication_date=2024-10-02"
+    },
     {
       "citation": "89 FR 73559",
       "document_number": "2024-20712",
