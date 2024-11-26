@@ -1,8 +1,26 @@
 {
-  "count": 143,
+  "count": 144,
   "description": "Documents signed by Joseph R. Biden Jr., of type Presidential Document, and of presidential document type Executive Order",
   "total_pages": 1,
   "results": [
+    {
+      "citation": "89 FR 93145",
+      "document_number": "2024-27850",
+      "end_page": 93146,
+      "html_url": "https://www.federalregister.gov/documents/2024/11/26/2024-27850/establishing-a-second-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2024-11-26/pdf/2024-27850.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2024-11-26",
+      "signing_date": "2024-11-21",
+      "start_page": 93145,
+      "title": "Establishing a Second Emergency Board To Investigate a Dispute Between New Jersey Transit Rail Operations and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen",
+      "disposition_notes": null,
+      "executive_order_number": "14128",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2024/11/26/2024-27850.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2024/11/26/2024-27850.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2024-27850?publication_date=2024-11-26"
+    },
     {
       "citation": "89 FR 80345",
       "document_number": "2024-22938",
