@@ -436,24 +436,6 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2023-17449?publication_date=2023-08-11"
     },
     {
-      "citation": "88 FR 51203",
-      "document_number": "2023-16636",
-      "end_page": 51208,
-      "html_url": "https://www.federalregister.gov/documents/2023/08/02/2023-16636/federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2023-08-02/pdf/2023-16636.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2023-08-02",
-      "signing_date": "2023-07-28",
-      "start_page": 51203,
-      "title": "Federal Research and Development in Support of Domestic Manufacturing and United States Jobs",
-      "disposition_notes": "See: EO 14005, January 25, 2021",
-      "executive_order_number": "14104",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2023/08/02/2023-16636.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2023/08/02/2023-16636.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2023-16636?publication_date=2023-08-02"
-    },
-    {
       "citation": "88 FR 50535",
       "document_number": "2023-16570",
       "end_page": 50757,
@@ -470,6 +452,24 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2023/08/02/2023-16570.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2023/08/02/2023-16570.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2023-16570?publication_date=2023-08-02"
+    },
+    {
+      "citation": "88 FR 51203",
+      "document_number": "2023-16636",
+      "end_page": 51208,
+      "html_url": "https://www.federalregister.gov/documents/2023/08/02/2023-16636/federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2023-08-02/pdf/2023-16636.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2023-08-02",
+      "signing_date": "2023-07-28",
+      "start_page": 51203,
+      "title": "Federal Research and Development in Support of Domestic Manufacturing and United States Jobs",
+      "disposition_notes": "See: EO 14005, January 25, 2021",
+      "executive_order_number": "14104",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2023/08/02/2023-16636.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2023/08/02/2023-16636.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2023-16636?publication_date=2023-08-02"
     },
     {
       "citation": "88 FR 45807",
@@ -1930,24 +1930,6 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-07239?publication_date=2021-04-07"
     },
     {
-      "citation": "86 FR 13803",
-      "document_number": "2021-05200",
-      "end_page": 13804,
-      "html_url": "https://www.federalregister.gov/documents/2021/03/11/2021-05200/guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-03-11/pdf/2021-05200.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-03-11",
-      "signing_date": "2021-03-08",
-      "start_page": 13803,
-      "title": "Guaranteeing an Educational Environment Free From Discrimination on the Basis of Sex, Including Sexual Orientation or Gender Identity",
-      "disposition_notes": null,
-      "executive_order_number": "14021",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/11/2021-05200.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/11/2021-05200.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-05200?publication_date=2021-03-11"
-    },
-    {
       "citation": "86 FR 13797",
       "document_number": "2021-05183",
       "end_page": 13801,
@@ -1964,6 +1946,24 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/11/2021-05183.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/11/2021-05183.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-05183?publication_date=2021-03-11"
+    },
+    {
+      "citation": "86 FR 13803",
+      "document_number": "2021-05200",
+      "end_page": 13804,
+      "html_url": "https://www.federalregister.gov/documents/2021/03/11/2021-05200/guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-03-11/pdf/2021-05200.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-03-11",
+      "signing_date": "2021-03-08",
+      "start_page": 13803,
+      "title": "Guaranteeing an Educational Environment Free From Discrimination on the Basis of Sex, Including Sexual Orientation or Gender Identity",
+      "disposition_notes": null,
+      "executive_order_number": "14021",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/03/11/2021-05200.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/03/11/2021-05200.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-05200?publication_date=2021-03-11"
     },
     {
       "citation": "86 FR 13623",
@@ -2434,6 +2434,24 @@
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01865?publication_date=2021-01-26"
     },
     {
+      "citation": "86 FR 7009",
+      "document_number": "2021-01753",
+      "end_page": 7013,
+      "html_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01753.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2021-01-25",
+      "signing_date": "2021-01-20",
+      "start_page": 7009,
+      "title": "Advancing Racial Equity and Support for Underserved Communities Through the Federal Government",
+      "disposition_notes": "Revokes: EO 13950, September 22, 2020; EO 13958, November 2, 2020\r\nSee: EO 14089, December 13, 2022; EO 14091, February 16, 2023; EO 14096, April 21, 2023; EO 14121, March 27, 2024; EO 14126, September 6, 2024",
+      "executive_order_number": "13985",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01753.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01753.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01753?publication_date=2021-01-25"
+    },
+    {
       "citation": "86 FR 7015",
       "document_number": "2021-01755",
       "end_page": 7017,
@@ -2576,24 +2594,6 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01768.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01768.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01768?publication_date=2021-01-25"
-    },
-    {
-      "citation": "86 FR 7009",
-      "document_number": "2021-01753",
-      "end_page": 7013,
-      "html_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2021-01-25/pdf/2021-01753.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2021-01-25",
-      "signing_date": "2021-01-20",
-      "start_page": 7009,
-      "title": "Advancing Racial Equity and Support for Underserved Communities Through the Federal Government",
-      "disposition_notes": "Revokes: EO 13950, September 22, 2020; EO 13958, November 2, 2020\r\nSee: EO 14089, December 13, 2022; EO 14091, February 16, 2023; EO 14096, April 21, 2023; EO 14121, March 27, 2024; EO 14126, September 6, 2024",
-      "executive_order_number": "13985",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2021/01/25/2021-01753.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2021/01/25/2021-01753.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2021-01753?publication_date=2021-01-25"
     }
   ]
 }
