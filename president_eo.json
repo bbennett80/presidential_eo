@@ -4,6 +4,24 @@
   "total_pages": 1,
   "results": [
     {
+      "citation": "90 FR 2587",
+      "document_number": "2025-00620",
+      "end_page": 2588,
+      "html_url": "https://www.federalregister.gov/documents/2025/01/13/2025-00620/providing-an-order-of-succession-within-the-office-of-the-national-cyber-director",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-13/pdf/2025-00620.pdf",
+      "type": "Presidential Document",
+      "subtype": "Executive Order",
+      "publication_date": "2025-01-13",
+      "signing_date": "2025-01-03",
+      "start_page": 2587,
+      "title": "Providing an Order of Succession Within the Office of the National Cyber Director",
+      "disposition_notes": null,
+      "executive_order_number": "14139",
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/01/13/2025-00620.xml",
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/01/13/2025-00620.html",
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2025-00620?publication_date=2025-01-13"
+    },
+    {
       "citation": "90 FR 2577",
       "document_number": "2025-00595",
       "end_page": 2578,
@@ -110,24 +128,6 @@
       "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/01/13/2025-00622.xml",
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/01/13/2025-00622.html",
       "json_url": "https://www.federalregister.gov/api/v1/documents/2025-00622?publication_date=2025-01-13"
-    },
-    {
-      "citation": "90 FR 2587",
-      "document_number": "2025-00620",
-      "end_page": 2588,
-      "html_url": "https://www.federalregister.gov/documents/2025/01/13/2025-00620/providing-an-order-of-succession-within-the-office-of-the-national-cyber-director",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-13/pdf/2025-00620.pdf",
-      "type": "Presidential Document",
-      "subtype": "Executive Order",
-      "publication_date": "2025-01-13",
-      "signing_date": "2025-01-03",
-      "start_page": 2587,
-      "title": "Providing an Order of Succession Within the Office of the National Cyber Director",
-      "disposition_notes": null,
-      "executive_order_number": "14139",
-      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2025/01/13/2025-00620.xml",
-      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2025/01/13/2025-00620.html",
-      "json_url": "https://www.federalregister.gov/api/v1/documents/2025-00620?publication_date=2025-01-13"
     },
     {
       "citation": "90 FR 187",
